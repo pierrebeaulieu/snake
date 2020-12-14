@@ -1,0 +1,1 @@
+void setupSnake(int snake[], int len, int nx, int ny);

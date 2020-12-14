@@ -1,0 +1,1 @@
+bool verifyBorder(int snake[], int nx, int ny, int snl, int dxdy[]);

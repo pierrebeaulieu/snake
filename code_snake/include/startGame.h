@@ -1,0 +1,1 @@
+void startGame(const int& lap, const int& nx, const int& ny, int& snl, int* snake, int* bg);

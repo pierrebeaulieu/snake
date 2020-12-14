@@ -1,0 +1,1 @@
+void update_snake_coordinates( int snake[], int snl, int dxdy[] , bool eat);

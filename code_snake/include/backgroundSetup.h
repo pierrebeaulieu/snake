@@ -1,0 +1,1 @@
+void backgroundSetup(const int nx, const int ny, int background[] );
