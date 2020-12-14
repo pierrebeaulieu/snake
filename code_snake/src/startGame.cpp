@@ -9,7 +9,7 @@
 #include "../include/add_snake.h"
 #include "../include/backgroundSetup.h"
 #include "../include/remove_snake.h"
-#include "../include/setupsnake.h"
+#include "../include/setupSnake.h"
 #include "../include/snake_movement.h"
 #include "../include/update_snake_coordinates.h"
 #include "../include/verifyborder.h"
